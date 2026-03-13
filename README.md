@@ -12,3 +12,8 @@ Focus: docs improvements, translations, examples, and small but meaningful contr
 - [ ] Set up GitHub profile
 - [ ] Make first public commit
 - [ ] Open my first external PR (docs)
+
+## Links
+- Week plan: https://github.com/fredgena74/oss-growth-log/blob/main/WEEK_01_PLAN.md
+- Daily progress: https://github.com/fredgena74/oss-growth-log/tree/main/progress
+- First external PR: https://github.com/openclaw/openclaw/pull/44798
